@@ -28,4 +28,4 @@ IT Professional</a>☺</h1>
 
 <h2>🤳Connect with me:</h2>
 
-[linkedin]: https://linkedin.com/
+[linkedin]: https://linkedin.com
